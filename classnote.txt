@@ -4,4 +4,22 @@ rows = 5
 for i in range(1, rows + 1):
     print(' ' * (rows - i) + '*' * (2 * i - 1))
 
+===================================================
+from above data collect 
 
+userid
+name
+city
+
+output
+[
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+{'userid':1,'name':'rahul','city':wayanad},
+]
